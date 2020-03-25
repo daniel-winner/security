@@ -11,5 +11,13 @@
 
     <artifactId>imooc-securty-app</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.imooc.security</groupId>
+            <artifactId>imooc-security-core</artifactId>
+            <version>${imooc.security.version}</version>
+        </dependency>
+    </dependencies>
+
 
 </project>
